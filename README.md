@@ -27,7 +27,7 @@ sudo vi Output.txt\
 sudo git add Code.txt\
 sudo git add Output.txt\
 git commit -m "initial commit"\
-git remote add origin "https://github.com/git_Owner_name/GitAssignment1.git"
+git remote add origin "https://github.com/git_Owner_name/GitAssignment1.git"  
 git push origin master\
 git status\
 git ls-files\ 
